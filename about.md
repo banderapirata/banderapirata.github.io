@@ -4,7 +4,7 @@ title: Sobre
 permalink: /about/
 ---
 
-Some information about you!
+Radio en constante construcción!
 
 ### More Information
 
@@ -12,4 +12,4 @@ A place to include any other types of information that you'd like to include abo
 
 ### Contact me
 
-[email@domain.com](mailto:banderapirata@protonmail.com)
+[banderapirata@protonmail.com](mailto:banderapirata@protonmail.com)
